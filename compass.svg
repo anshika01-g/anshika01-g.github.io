@@ -9307,7 +9307,7 @@
      inkscape:cx="455.9623"
      inkscape:cy="609.61925"
      inkscape:document-units="px"
-     inkscape:current-layer="g450"
+     inkscape:current-layer="g2110"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="657"
@@ -9322,7 +9322,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -11051,6 +11051,19 @@
                d="m 0,0 27.917,-80.886 27.915,-80.888 12.898,5.681 z"
                inkscape:connector-curvature="0"
                inkscape:label="{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;needlered&quot;}" />
+            <text
+               xml:space="preserve"
+               style="font-size:46.06435013px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+               x="-128.99338"
+               y="518.23755"
+               id="textValue"
+               sodipodi:linespacing="125%"
+               transform="scale(1.0029554,-0.99705327)"
+               inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#A020F0&quot;,&quot;tag&quot;:&quot;textValue&quot;},{&quot;data&quot;:&quot;100&quot;,&quot;param&quot;:&quot;#FFFF00&quot;,&quot;tag&quot;:&quot;textValue&quot;}]}"><tspan
+                 sodipodi:role="line"
+                 id="tspan6623"
+                 x="-128.99338"
+                 y="518.23755">%3.0f Degrees</tspan></text>
           </g>
           <g
              id="g2114">
